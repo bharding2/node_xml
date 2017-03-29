@@ -3,6 +3,12 @@
   <Slothbear id="00001">
     <Name>Mr. Growleypants</Name>
     <Head>
+      <Ears></Ears>
+      <Nose></Nose>
+      <Mouth>
+        <Teeth></Teeth>
+        <Tongue></Tongue>
+      </Mouth>
     </Head>
     <Body>
     </Body>
