@@ -11,6 +11,12 @@
       </Mouth>
     </Head>
     <Body>
+      <Arms>
+        <Paws>
+          <Claws>
+          </Claws>
+        </Paws>
+      </Arms>
     </Body>
   </Slothbear>
 </Slothbears>
