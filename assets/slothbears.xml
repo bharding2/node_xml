@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Slothbears id="zoo01">
-  <Slothbear id="00001">
+  <Slothbear id="sb00001">
     <Name>Mr. Growleypants</Name>
+    <Age>6</Age>
     <Head>
       <Eyes></Eyes>
       <Ears></Ears>
