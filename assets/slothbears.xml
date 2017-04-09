@@ -4,7 +4,9 @@
     <Name>Mr. Growleypants</Name>
     <Age>6</Age>
     <Weight>450</Weight>
-    <Parents></Parents>
+    <Parents>
+      <Father id="sb00002">Growleston</Father>  
+    </Parents>
     <Head>
       <Eyes></Eyes>
       <Ears></Ears>
