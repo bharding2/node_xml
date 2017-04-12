@@ -5,7 +5,8 @@
     <Age>6</Age>
     <Weight>450</Weight>
     <Parents>
-      <Father id="sb00002">Growleston</Father>  
+      <Father id="sb00002">Growleston</Father>
+      <Mother id="sb00003">Growlvelyn</Mother>
     </Parents>
     <Head>
       <Eyes></Eyes>
