@@ -3,6 +3,7 @@
   <Slothbear id="sb00001">
     <Name>Mr. Growleypants</Name>
     <Age>6</Age>
+    <Height>9</Height>
     <Weight>450</Weight>
     <Parents>
       <Father id="sb00002">Growleston</Father>
