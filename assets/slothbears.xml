@@ -21,10 +21,18 @@
     <Body>
       <Fur></Fur>
       <Arms>
-        <Paws>
-          <Claws>
-          </Claws>
-        </Paws>
+        <Right>
+          <Paws>
+            <Claws>
+            </Claws>
+          </Paws>
+        </Right>
+        <Left>
+          <Paws>
+            <Claws>
+            </Claws>
+          </Paws>
+        </Left>
       </Arms>
       <Legs>
         <Paws>
