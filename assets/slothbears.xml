@@ -35,10 +35,18 @@
         </Left>
       </Arms>
       <Legs>
+        <Right>
+          <Paws>
+            <Claws>
+            </Claws>
+          </Paws>
+        </Right>
         <Paws>
           <Claws>
           </Claws>
         </Paws>
+        <Left>
+        </Left>
       </Legs>
     </Body>
   </Slothbear>
