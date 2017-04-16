@@ -10,7 +10,10 @@
       <Mother id="sb00003">Growlvelyn</Mother>
     </Parents>
     <Head>
-      <Eyes></Eyes>
+      <Eyes>
+        <Right></Right>
+        <Left></Left>
+      </Eyes>
       <Ears></Ears>
       <Nose></Nose>
       <Mouth>
