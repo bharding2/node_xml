@@ -14,7 +14,10 @@
         <Right></Right>
         <Left></Left>
       </Eyes>
-      <Ears></Ears>
+      <Ears>
+        <Right></Right>
+        <Left></Left>
+      </Ears>
       <Nose></Nose>
       <Mouth>
         <Teeth></Teeth>
