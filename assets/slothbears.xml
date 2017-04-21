@@ -12,8 +12,14 @@
     </Parents>
     <Head>
       <Eyes>
-        <Right></Right>
-        <Left></Left>
+        <Right>
+          <Color>
+          </Color>
+        </Right>
+        <Left>
+          <Color>
+          </Color>
+        </Left>
       </Eyes>
       <Ears>
         <Right></Right>
