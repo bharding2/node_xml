@@ -34,7 +34,10 @@
       </Mouth>
     </Head>
     <Body>
-      <Fur></Fur>
+      <Fur>
+        <Color>
+        </Color>
+      </Fur>
       <Arms>
         <Right>
           <Paws>
