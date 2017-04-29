@@ -30,7 +30,7 @@
       <Nose></Nose>
       <Mouth>
         <Teeth></Teeth>
-        <Tongue></Tongue>
+        <Tongue>6</Tongue>
         <Roar>ROAAAAR</Roar>
       </Mouth>
     </Head>
