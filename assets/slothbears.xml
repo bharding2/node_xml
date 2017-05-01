@@ -29,7 +29,7 @@
       </Ears>
       <Nose></Nose>
       <Mouth>
-        <Teeth></Teeth>
+        <Teeth>100</Teeth>
         <Tongue>6</Tongue>
         <Roar>ROAAAAR</Roar>
       </Mouth>
