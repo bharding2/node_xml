@@ -27,7 +27,7 @@
         <Right></Right>
         <Left></Left>
       </Ears>
-      <Nose></Nose>
+      <Nose>2</Nose>
       <Mouth>
         <Teeth>100</Teeth>
         <Tongue>6</Tongue>
