@@ -24,8 +24,8 @@
         </Left>
       </Eyes>
       <Ears>
-        <Right></Right>
-        <Left></Left>
+        <Right>fuzzy</Right>
+        <Left>fuzzy</Left>
       </Ears>
       <Nose>2</Nose>
       <Mouth>
