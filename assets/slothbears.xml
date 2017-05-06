@@ -44,12 +44,14 @@
         <Right>
           <Paws>
             <Claws>
+              5
             </Claws>
           </Paws>
         </Right>
         <Left>
-          <Paws>
+          <Paws>5
             <Claws>
+              5
             </Claws>
           </Paws>
         </Left>
