@@ -64,11 +64,11 @@
             </Claws>
           </Paws>
         </Right>
-        <Paws>
-          <Claws>
-          </Claws>
-        </Paws>
         <Left>
+          <Paws>
+            <Claws>
+            </Claws>
+          </Paws>
         </Left>
       </Legs>
     </Body>
