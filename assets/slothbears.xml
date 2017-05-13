@@ -13,12 +13,8 @@
     <Head>
       <Eyes>
         <Right>
-          <Size>
-            5
-          </Size>
-          <Color>
-            Blue
-          </Color>
+          <Size>5</Size>
+          <Color>Blue</Color>
         </Right>
         <Left>
           <Size>
