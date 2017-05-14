@@ -17,12 +17,8 @@
           <Color>Blue</Color>
         </Right>
         <Left>
-          <Size>
-            5
-          </Size>
-          <Color>
-            Green
-          </Color>
+          <Size>5</Size>
+          <Color>Green</Color>
         </Left>
       </Eyes>
       <Ears>
