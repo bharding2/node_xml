@@ -22,10 +22,10 @@
         </Left>
       </Eyes>
       <Ears>
-        <Right>fuzzy</Right>
-        <Left>fuzzy</Left>
+        <Right>Fuzzy</Right>
+        <Left>Fuzzy</Left>
       </Ears>
-      <Nose>black</Nose>
+      <Nose>Black</Nose>
       <Mouth>
         <Teeth>100</Teeth>
         <Tongue>6</Tongue>
@@ -34,9 +34,7 @@
     </Head>
     <Body>
       <Fur>
-        <Color>
-          Black
-        </Color>
+        <Color>Black</Color>
         <Length>
           Shaggy
         </Length>
