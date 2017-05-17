@@ -35,9 +35,7 @@
     <Body>
       <Fur>
         <Color>Black</Color>
-        <Length>
-          Shaggy
-        </Length>
+        <Length>Shaggy</Length>
       </Fur>
       <Arms>
         <Right>
