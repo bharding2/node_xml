@@ -27,7 +27,9 @@
         <Right>Fuzzy</Right>
         <Left>Fuzzy</Left>
       </Ears>
-      <Nose>Black</Nose>
+      <Nose>
+        <Color>Black</Color>
+      </Nose>
       <Mouth>
         <Teeth>100</Teeth>
         <Tongue>6</Tongue>
