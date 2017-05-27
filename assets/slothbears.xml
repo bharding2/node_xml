@@ -29,6 +29,7 @@
       </Ears>
       <Nose>
         <Color>Black</Color>
+        <Power>50</Power>
       </Nose>
       <Mouth>
         <Teeth>100</Teeth>
