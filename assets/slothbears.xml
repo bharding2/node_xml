@@ -29,12 +29,12 @@
       </Ears>
       <Nose>
         <Color>Black</Color>
-        <Power>50</Power>
+        <Strength>50</Strength>
       </Nose>
       <Mouth>
         <Teeth>100</Teeth>
         <Tongue>6</Tongue>
-        <Roar>ROAAAAR</Roar>
+        <Roar>ROAAAAR</Roar>\
       </Mouth>
     </Head>
     <Body>
