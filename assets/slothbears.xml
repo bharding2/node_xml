@@ -32,9 +32,12 @@
         <Strength>50</Strength>
       </Nose>
       <Mouth>
-        <Teeth>100</Teeth>
+        <Jaws>
+          <Teeth>100</Teeth>
+          <Strength>100</Strength>
+        </Jaws>
         <Tongue>6</Tongue>
-        <Roar>ROAAAAR</Roar>\
+        <Roar>ROAAAAR</Roar>
       </Mouth>
     </Head>
     <Body>
